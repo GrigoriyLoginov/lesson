@@ -1,0 +1,17 @@
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\InsertNumMSUniteTest.deps.json
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\InsertNumMSUniteTest.runtimeconfig.json
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\InsertNumMSUniteTest.runtimeconfig.dev.json
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\InsertNumMSUniteTest.dll
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\InsertNumMSUniteTest.pdb
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\Task4_1.dll
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\bin\Release\netcoreapp2.1\Task4_1.pdb
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.csprojAssemblyReference.cache
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.csproj.CoreCompileInputs.cache
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.AssemblyInfoInputs.cache
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.AssemblyInfo.cs
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.csproj.CopyComplete
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.dll
+C:\Users\loginov\source\repos\Task4_1\InsertNumMSUniteTest\obj\Release\netcoreapp2.1\InsertNumMSUniteTest.pdb
