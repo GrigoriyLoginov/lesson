@@ -16,7 +16,7 @@ namespace Task4_1
         /// <param name="two">Число, биты которого нужно вставить</param>
         /// <param name="i">Стартовая позиция</param>
         /// <param name="j">Конечная позиция</param>
-        /// <returns>Integer with inserted bits of second number into first number</returns>
+        /// <returns>Целое число с вставленными битами второго числа в первое число</returns>
         public static int InsertNumber(int one, int two, int i, int j)
         {
             if (i < 0 || j < 0 || i > 31 || j > 31)
