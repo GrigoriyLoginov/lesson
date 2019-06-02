@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task4_4
 {
-    public class ConcatanationTwoLine
+    public class ConcatenationTwoLine
     {
         /// <summary>
         /// Метод конкатенации двух строк с удаление повторяющихся символов
@@ -14,7 +14,7 @@ namespace Task4_4
         /// <param name="first">Первая строка</param>
         /// <param name="second">Вторая строка</param>
         /// <returns>Соединенная строка</returns>
-        public string Conc(string first, string second)
+        public string Concatenation(string first, string second)
         {
             string str = "";
             foreach (char c in first)
