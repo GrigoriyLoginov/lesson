@@ -19,7 +19,7 @@ namespace Tests
         {
 
             int result = Task4_5.FindNumber.FindNextBiggerNumber(number, ref time);
-            System.Diagnostics.Debug.WriteLine($"Время выполнения {time}");
+            System.Diagnostics.Debug.WriteLine($"Р’СЂРµРјСЏ РІС‹РїРѕР»РЅРµРЅРёСЏ {time}");
             return result;
         }
     }
