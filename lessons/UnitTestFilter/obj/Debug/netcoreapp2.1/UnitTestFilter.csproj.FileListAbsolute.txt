@@ -1,0 +1,17 @@
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\UnitTestFilter.deps.json
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\UnitTestFilter.runtimeconfig.json
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\UnitTestFilter.runtimeconfig.dev.json
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\UnitTestFilter.dll
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\UnitTestFilter.pdb
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\Task4_6.dll
+D:\lessons\Task4_6\UnitTestFilter\bin\Debug\netcoreapp2.1\Task4_6.pdb
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.csprojAssemblyReference.cache
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.csproj.CoreCompileInputs.cache
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.AssemblyInfoInputs.cache
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.AssemblyInfo.cs
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.csproj.CopyComplete
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.dll
+D:\lessons\Task4_6\UnitTestFilter\obj\Debug\netcoreapp2.1\UnitTestFilter.pdb
