@@ -1,0 +1,17 @@
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\MSTest.Tests.deps.json
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\MSTest.Tests.runtimeconfig.json
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\MSTest.Tests.runtimeconfig.dev.json
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\MSTest.Tests.dll
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\MSTest.Tests.pdb
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.csprojAssemblyReference.cache
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.csproj.CoreCompileInputs.cache
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.AssemblyInfoInputs.cache
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.AssemblyInfo.cs
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.dll
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.pdb
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\Task5.dll
+D:\lessons\Task5\MSTest.Tests\bin\Debug\netcoreapp2.1\Task5.pdb
+D:\lessons\Task5\MSTest.Tests\obj\Debug\netcoreapp2.1\MSTest.Tests.csproj.CopyComplete

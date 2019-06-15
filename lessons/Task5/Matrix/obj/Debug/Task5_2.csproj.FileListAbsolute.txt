@@ -1,0 +1,6 @@
+D:\lessons\Task5\Matrix\bin\Debug\Matrix.dll
+D:\lessons\Task5\Matrix\bin\Debug\Matrix.pdb
+D:\lessons\Task5\Matrix\obj\Debug\Task5_2.csprojAssemblyReference.cache
+D:\lessons\Task5\Matrix\obj\Debug\Task5_2.csproj.CoreCompileInputs.cache
+D:\lessons\Task5\Matrix\obj\Debug\Matrix.dll
+D:\lessons\Task5\Matrix\obj\Debug\Matrix.pdb

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28306.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5_1", "Task5\Task5_1.csproj", "{173F2642-39C6-4866-B7BE-829A04DF0E8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MSTest.Tests", "MSTest.Tests\MSTest.Tests.csproj", "{5049C5C4-425D-4803-88F3-4DBA14E0364C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task5_2", "Matrix\Task5_2.csproj", "{FDB90FE6-5539-4600-A5C9-606024CE3F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{173F2642-39C6-4866-B7BE-829A04DF0E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{173F2642-39C6-4866-B7BE-829A04DF0E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{173F2642-39C6-4866-B7BE-829A04DF0E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{173F2642-39C6-4866-B7BE-829A04DF0E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5049C5C4-425D-4803-88F3-4DBA14E0364C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5049C5C4-425D-4803-88F3-4DBA14E0364C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5049C5C4-425D-4803-88F3-4DBA14E0364C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5049C5C4-425D-4803-88F3-4DBA14E0364C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB90FE6-5539-4600-A5C9-606024CE3F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB90FE6-5539-4600-A5C9-606024CE3F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB90FE6-5539-4600-A5C9-606024CE3F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB90FE6-5539-4600-A5C9-606024CE3F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BC340C-798C-415B-ADFE-759ACC92A71B}
+	EndGlobalSection
+EndGlobal

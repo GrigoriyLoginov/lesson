@@ -1,0 +1,6 @@
+D:\lessons\Task5\Task5\bin\Debug\Task5.dll
+D:\lessons\Task5\Task5\bin\Debug\Task5.pdb
+D:\lessons\Task5\Task5\obj\Debug\Task5.csprojAssemblyReference.cache
+D:\lessons\Task5\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\lessons\Task5\Task5\obj\Debug\Task5.dll
+D:\lessons\Task5\Task5\obj\Debug\Task5.pdb
