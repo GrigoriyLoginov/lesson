@@ -1,0 +1,6 @@
+D:\lessons\Task6\FindNOD\bin\Debug\FindNOD.dll
+D:\lessons\Task6\FindNOD\bin\Debug\FindNOD.pdb
+D:\lessons\Task6\FindNOD\obj\Debug\FindNOD.csprojAssemblyReference.cache
+D:\lessons\Task6\FindNOD\obj\Debug\FindNOD.csproj.CoreCompileInputs.cache
+D:\lessons\Task6\FindNOD\obj\Debug\FindNOD.dll
+D:\lessons\Task6\FindNOD\obj\Debug\FindNOD.pdb
