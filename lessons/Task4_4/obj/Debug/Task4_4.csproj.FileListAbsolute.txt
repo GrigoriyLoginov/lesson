@@ -1,6 +1,0 @@
-D:\lessons\Task4_4\Task4_4\bin\Debug\Task4_4.dll
-D:\lessons\Task4_4\Task4_4\bin\Debug\Task4_4.pdb
-D:\lessons\Task4_4\Task4_4\obj\Debug\Task4_4.csprojAssemblyReference.cache
-D:\lessons\Task4_4\Task4_4\obj\Debug\Task4_4.csproj.CoreCompileInputs.cache
-D:\lessons\Task4_4\Task4_4\obj\Debug\Task4_4.dll
-D:\lessons\Task4_4\Task4_4\obj\Debug\Task4_4.pdb
