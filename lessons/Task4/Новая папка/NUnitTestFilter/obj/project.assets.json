@@ -1646,13 +1646,13 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Task4_1/1.0.0": {
+      "Task4_6/1.0.0": {
         "type": "project",
         "compile": {
-          "bin/placeholder/Task4_1.dll": {}
+          "bin/placeholder/Task4_6.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Task4_1.dll": {}
+          "bin/placeholder/Task4_6.dll": {}
         }
       }
     }
@@ -5753,10 +5753,10 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Task4_1/1.0.0": {
+    "Task4_6/1.0.0": {
       "type": "project",
-      "path": "../Task4_1.csproj",
-      "msbuildProject": "../Task4_1.csproj"
+      "path": "../Task4_6/Task4_6.csproj",
+      "msbuildProject": "../Task4_6/Task4_6.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5764,7 +5764,7 @@
       "Microsoft.NET.Test.Sdk >= 15.8.0",
       "Microsoft.NETCore.App >= 2.1.0",
       "NUnit3TestAdapter >= 3.10.0",
-      "Task4_1 >= 1.0.0",
+      "Task4_6 >= 1.0.0",
       "nunit >= 3.10.1"
     ]
   },
@@ -5775,11 +5775,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\InsertNumNUniteTest\\InsertNumNUniteTest.csproj",
-      "projectName": "InsertNumNUniteTest",
-      "projectPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\InsertNumNUniteTest\\InsertNumNUniteTest.csproj",
+      "projectUniqueName": "D:\\lessons\\Task4_6\\NUnitTestFilter\\NUnitTestFilter.csproj",
+      "projectName": "NUnitTestFilter",
+      "projectPath": "D:\\lessons\\Task4_6\\NUnitTestFilter\\NUnitTestFilter.csproj",
       "packagesPath": "C:\\Users\\loginov\\.nuget\\packages\\",
-      "outputPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\InsertNumNUniteTest\\obj\\",
+      "outputPath": "D:\\lessons\\Task4_6\\NUnitTestFilter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5798,8 +5798,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\Task4_1.csproj": {
-              "projectPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\Task4_1.csproj"
+            "D:\\lessons\\Task4_6\\Task4_6\\Task4_6.csproj": {
+              "projectPath": "D:\\lessons\\Task4_6\\Task4_6\\Task4_6.csproj"
             }
           }
         }

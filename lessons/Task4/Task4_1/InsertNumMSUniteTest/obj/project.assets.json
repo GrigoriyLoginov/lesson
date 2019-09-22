@@ -5841,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\loginov\\source\\repos\\Task4_1\\InsertNumMSUniteTest\\InsertNumMSUniteTest.csproj",
+      "projectUniqueName": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\InsertNumMSUniteTest\\InsertNumMSUniteTest.csproj",
       "projectName": "InsertNumMSUniteTest",
-      "projectPath": "C:\\Users\\loginov\\source\\repos\\Task4_1\\InsertNumMSUniteTest\\InsertNumMSUniteTest.csproj",
+      "projectPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\InsertNumMSUniteTest\\InsertNumMSUniteTest.csproj",
       "packagesPath": "C:\\Users\\loginov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\loginov\\source\\repos\\Task4_1\\InsertNumMSUniteTest\\obj\\",
+      "outputPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\InsertNumMSUniteTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5864,8 +5864,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\loginov\\source\\repos\\Task4_1\\Task4_1.csproj": {
-              "projectPath": "C:\\Users\\loginov\\source\\repos\\Task4_1\\Task4_1.csproj"
+            "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\Task4_1.csproj": {
+              "projectPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.1\\Task4_1.csproj"
             }
           }
         }
