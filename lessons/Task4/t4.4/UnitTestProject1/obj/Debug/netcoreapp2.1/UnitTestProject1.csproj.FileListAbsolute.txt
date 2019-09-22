@@ -1,0 +1,17 @@
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.deps.json
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.json
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.runtimeconfig.dev.json
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\UnitTestProject1.pdb
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\Task4_4.dll
+D:\lessons\Task4_4\UnitTestProject1\bin\Debug\netcoreapp2.1\Task4_4.pdb
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csprojAssemblyReference.cache
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfoInputs.cache
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.AssemblyInfo.cs
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.csproj.CopyComplete
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.dll
+D:\lessons\Task4_4\UnitTestProject1\obj\Debug\netcoreapp2.1\UnitTestProject1.pdb
