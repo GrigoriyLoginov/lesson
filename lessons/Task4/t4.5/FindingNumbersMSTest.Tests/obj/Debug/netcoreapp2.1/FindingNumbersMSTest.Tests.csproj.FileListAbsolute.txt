@@ -1,0 +1,17 @@
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.deps.json
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.runtimeconfig.json
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.runtimeconfig.dev.json
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.dll
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.pdb
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\Task4_5.dll
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\bin\Debug\netcoreapp2.1\Task4_5.pdb
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.csprojAssemblyReference.cache
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.csproj.CoreCompileInputs.cache
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.AssemblyInfoInputs.cache
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.AssemblyInfo.cs
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.csproj.CopyComplete
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.dll
+D:\lessons\Task4_5\FindingNumbersMSTest.Tests\obj\Debug\netcoreapp2.1\FindingNumbersMSTest.Tests.pdb
