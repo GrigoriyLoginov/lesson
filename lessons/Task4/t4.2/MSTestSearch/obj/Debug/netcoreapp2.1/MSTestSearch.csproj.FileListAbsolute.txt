@@ -1,0 +1,17 @@
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\MSTestSearch.deps.json
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\MSTestSearch.runtimeconfig.json
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\MSTestSearch.runtimeconfig.dev.json
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\MSTestSearch.dll
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\MSTestSearch.pdb
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\Task4_2.dll
+D:\lessons\Task4_2\MSTestSearch\bin\Debug\netcoreapp2.1\Task4_2.pdb
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.csprojAssemblyReference.cache
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.csproj.CoreCompileInputs.cache
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.AssemblyInfoInputs.cache
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.AssemblyInfo.cs
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.csproj.CopyComplete
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.dll
+D:\lessons\Task4_2\MSTestSearch\obj\Debug\netcoreapp2.1\MSTestSearch.pdb
