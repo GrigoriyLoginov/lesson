@@ -1,0 +1,6 @@
+D:\lessons\Task6\ClassNulable\bin\Debug\ClassNulable.dll
+D:\lessons\Task6\ClassNulable\bin\Debug\ClassNulable.pdb
+D:\lessons\Task6\ClassNulable\obj\Debug\ClassNulable.csprojAssemblyReference.cache
+D:\lessons\Task6\ClassNulable\obj\Debug\ClassNulable.csproj.CoreCompileInputs.cache
+D:\lessons\Task6\ClassNulable\obj\Debug\ClassNulable.dll
+D:\lessons\Task6\ClassNulable\obj\Debug\ClassNulable.pdb

@@ -1,0 +1,9 @@
+D:\lessons\Task6\DoubleIEEE754\bin\Debug\netstandard2.0\DoubleIEEE754.deps.json
+D:\lessons\Task6\DoubleIEEE754\bin\Debug\netstandard2.0\DoubleIEEE754.dll
+D:\lessons\Task6\DoubleIEEE754\bin\Debug\netstandard2.0\DoubleIEEE754.pdb
+D:\lessons\Task6\DoubleIEEE754\obj\Debug\netstandard2.0\DoubleIEEE754.csprojAssemblyReference.cache
+D:\lessons\Task6\DoubleIEEE754\obj\Debug\netstandard2.0\DoubleIEEE754.csproj.CoreCompileInputs.cache
+D:\lessons\Task6\DoubleIEEE754\obj\Debug\netstandard2.0\DoubleIEEE754.AssemblyInfoInputs.cache
+D:\lessons\Task6\DoubleIEEE754\obj\Debug\netstandard2.0\DoubleIEEE754.AssemblyInfo.cs
+D:\lessons\Task6\DoubleIEEE754\obj\Debug\netstandard2.0\DoubleIEEE754.dll
+D:\lessons\Task6\DoubleIEEE754\obj\Debug\netstandard2.0\DoubleIEEE754.pdb
