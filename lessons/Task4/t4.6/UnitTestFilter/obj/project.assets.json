@@ -5841,11 +5841,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\lessons\\Task4_6\\UnitTestFilter\\UnitTestFilter.csproj",
+      "projectUniqueName": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.6\\UnitTestFilter\\UnitTestFilter.csproj",
       "projectName": "UnitTestFilter",
-      "projectPath": "D:\\lessons\\Task4_6\\UnitTestFilter\\UnitTestFilter.csproj",
+      "projectPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.6\\UnitTestFilter\\UnitTestFilter.csproj",
       "packagesPath": "C:\\Users\\loginov\\.nuget\\packages\\",
-      "outputPath": "D:\\lessons\\Task4_6\\UnitTestFilter\\obj\\",
+      "outputPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.6\\UnitTestFilter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5864,8 +5864,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\lessons\\Task4_6\\Task4_6\\Task4_6.csproj": {
-              "projectPath": "D:\\lessons\\Task4_6\\Task4_6\\Task4_6.csproj"
+            "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.6\\Task4_6\\Task4_6.csproj": {
+              "projectPath": "D:\\lessonnew\\lesson\\lessons\\Task4\\t4.6\\Task4_6\\Task4_6.csproj"
             }
           }
         }
