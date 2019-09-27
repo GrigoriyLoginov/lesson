@@ -40,7 +40,7 @@ namespace TestDDT
             CollectionAssert.AreEqual(expected, actual);
         }*/
         #endregion
-        [DataSource(@"Provider=Microsoft.SQLSERVER.CE.OLEDB.3.5; Data Source=D:\lessonnew\lesson\lessons\Task4\t4.6\TestDDT\bin\Debug\MyDatabase.sdf;", "TestData")]
+        [DataSource(@"Provider=Microsoft.SQLSERVER.CE.OLEDB.3.5; Data Source=D:\lessonnew\lesson\lessons\Task4\t4.6\TestDDT\MyDatabase.sdf;", "TestData")]
         [TestMethod()]
         public void MyTestMethod()
         {
