@@ -115,13 +115,23 @@ namespace Task8_3Tests
         public void TestEqualityPolynoms()
         {
             bool Equal = (pFirst == pSecond);
-            Assert.AreEqual(false, false);
+            Assert.AreEqual(false, Equal);
         }
         [Test]
         public void TestNoEqualityPolynoms()
         {
             bool Equal = (pFirst != pSecond);
-            Assert.AreEqual(true, true);
+            Assert.AreEqual(true, Equal);
+        }
+        [Test]
+        public void TestOvverideEqualFail()
+        {
+            Assert.AreEqual(false, pFirst.Equals(pSecond));
+        }
+        [Test]
+        public void TestOvverideEqualPass()
+        {
+            Assert.AreEqual(true, pFirst.Equals(new Polynomial(1, 2, 8, 6, 16, 3, 12)));
         }
         #endregion
         #region TestException

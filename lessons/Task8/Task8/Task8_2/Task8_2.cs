@@ -9,25 +9,31 @@ namespace Task8_2
     #region RectangleRealization
     public class Rectangle : IFigure
     {
-        public double ASide { get; set; }
-        public double BSide { get; set; }
+        private double ASide { get; set; }
+        private double BSide { get; set; }
         public double Area()
         {
-            return 2 * (ASide + BSide);
+            return ASide * BSide;
         }
 
         public double Perimetr()
         {
-            return ASide + BSide;
+            return 2 * (ASide + BSide);
+        }
+
+        public Rectangle(double ASide, double BSide)
+        {
+            this.ASide = ASide;
+            this.BSide = BSide;
         }
     }
     #endregion
     #region TriangleRealization
     public class Triangle : IFigure
     {
-        public double ASide { get; set; }
-        public double BSide { get; set; }
-        public double CSide { get; set; }
+        private double ASide { get; set; }
+        private double BSide { get; set; }
+        private double CSide { get; set; }
         public double Area()
         {
             double p = (ASide + BSide + CSide) / 2;
@@ -38,12 +44,19 @@ namespace Task8_2
         {
             return ASide + BSide + CSide;
         }
+
+        public Triangle(double ASide, double BSide, double CSide)
+        {
+            this.ASide = ASide;
+            this.BSide = BSide;
+            this.CSide = CSide;
+        }
     }
     #endregion
     #region CircleRealization
     public class Circle : IFigure
     {
-        public double Radius { get; set; }
+        private double Radius { get; set; }
         public double Area()
         {
             return Math.PI * Radius * Radius;
@@ -53,20 +66,30 @@ namespace Task8_2
         {
             return 2 * Math.PI * Radius;
         }
+
+        public Circle(double Radius)
+        {
+            this.Radius = Radius;
+        }
     }
     #endregion
     #region SquareRealization
-    public class Square : IFigure
+    public class Square : Rectangle
     {
-        public double Side { get; set; }
-        public double Area()
+        private double Side { get; set; }
+        public new double Area()
         {
             return Side * Side;
         }
 
-        public double Perimetr()
+        public new double Perimetr()
         {
             return 4 * Side;
+        }
+        public Square(double Side) : base(Side, Side)
+        {
+            this.Side = Side;
+
         }
     }
     #endregion

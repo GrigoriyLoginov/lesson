@@ -79,10 +79,19 @@ namespace Task8_3
         }
         public override bool Equals(object obj)
         {
-            if (obj.GetType() != this.GetType()) return false;
-
-            Polynomial polynomial = (Polynomial)obj;
-            return Order == polynomial.Order;
+            Polynomial polynomial = obj as Polynomial;
+            if (polynomial.coefficients.Length != this.coefficients.Length)
+            {
+                return false;
+            }
+            for (int i = 0; i < polynomial.coefficients.Length; i++)
+            {
+                if (polynomial[i] != this[i])
+                {
+                    return false;
+                }
+            }
+            return true;
         }
 
         public override int GetHashCode()
