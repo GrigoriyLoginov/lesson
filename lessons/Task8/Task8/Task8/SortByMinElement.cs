@@ -10,16 +10,16 @@ namespace Task8_1
     /// Сортировка по сумме элементов
     /// </summary>
     /// <param name="array"></param>
-    /// <param name="ascdesc">true по возрастанию, false по убыванию</param>
+    /// <param name="Isascdescing">true по возрастанию, false по убыванию</param>
     public class SortByMinElement : ISort<int>
     {
-        public void SortByElements(IMatrix<int> array, bool ascdesc)
+        public void SortByElements(IMatrix<int> array, bool Isascdescing)
         {
             for (int i = 0; i < array.Array.Length; i++)
             {
                 for (int j = 0; j < array.Array.Length; j++)
                 {
-                    if (ascdesc)
+                    if (Isascdescing)
                     {
                         if (array.MaxMinElement(array.Array[i], false) < array.MaxMinElement(array.Array[j], false))
                             array.Swap(ref array.Array[i], ref array.Array[j]);

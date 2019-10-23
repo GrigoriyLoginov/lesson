@@ -35,12 +35,7 @@ namespace Task8_3
         {
             get
             {
-                int order = 0;
-                for (int i = coefficients.Length - 1; i > 0; i--)
-                {
-                    order++;
-                }
-                return order;
+                return coefficients.Length - 1;
             }
         }
         //Копирование массива коэффициентов
@@ -75,7 +70,7 @@ namespace Task8_3
                     else result += znak + _coefstring[i];
                 }
             }
-            return result.TrimEnd(new char[] { '+', '-',' ' }).TrimStart('+');
+            return result.TrimEnd(new char[] { '+', '-', ' ' }).TrimStart('+');
         }
         public override bool Equals(object obj)
         {
@@ -242,8 +237,8 @@ namespace Task8_3
             double[] resultpolynom = polynomial.Copy();
             for (int i = 0; i < resultpolynom.Length; i++)
             {
-                if (resultpolynom[i]!=0)
-                resultpolynom[i] = number / resultpolynom[i];
+                if (resultpolynom[i] != 0)
+                    resultpolynom[i] = number / resultpolynom[i];
             }
             return new Polynomial(resultpolynom);
         }
